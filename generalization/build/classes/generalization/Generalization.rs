@@ -1,0 +1,4 @@
+generalization.Rectangle
+generalization.Generalization
+generalization.Circle
+generalization.Shape
